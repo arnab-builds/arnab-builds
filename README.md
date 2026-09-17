@@ -1,18 +1,77 @@
-# 💫 About Me:
-💻 Building AI-powered and full-stack applications<br><br>🧠Exploring AI, Full-Stack Development & Modern Web Technologies<br><br>🤝 Open to collaborating on Full-Stack, Backend & AI projects<br><br>💬 Ask me about React, Django, REST APIs, PostgreSQL & AI<br><br>⚡ I like building projects that solve real-world problems
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications;Full-Stack+Developer+%7C+React+%2B+Django;Turning+Ideas+Into+Real-World+Products;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apaul1782@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arnab-builds&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=arnab-builds&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arnab-builds&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm **Arnab**, a Full-Stack & AI Developer focused on building end-to-end web applications with React on the frontend and Django / FastAPI on the backend. My current focus is on integrating AI into modern web applications and designing scalable backend architecture.
+
+I care about building products that solve real problems rather than proof-of-concept demos, and I'm open to collaborating on full-stack, backend, and AI projects.
+
+|             |                                                |
+| :---------- | :--------------------------------------------- |
+| **Role**    | Full-Stack & AI Developer                      |
+| **Stack**   | React · Django · FastAPI · PostgreSQL          |
+| **Focus**   | AI integrations, scalable backend architecture |
+| **Open to** | Full-Stack, Backend & AI collaborations        |
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:apaul1782@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arnab-paul-537673295)
+
+</div>
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages** <br> <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css" />
+
+**Frontend** <br> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+**Backend** <br> <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
+
+**Databases** <br> <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb" />
+
+**Tools & Deployment** <br> <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman,vscode,powershell" />
+
+**AI / ML** <br> <img src="https://skillicons.dev/icons?i=sklearn,py" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=arnab-builds&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arnab-builds&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=arnab-builds&theme=aura_dark&hide_border=false" />
+
+</div>
+
+<br>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+</div>
