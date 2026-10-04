@@ -75,4 +75,3 @@ I care about building products that solve real problems rather than proof-of-con
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 </div>
-
